@@ -1,0 +1,12 @@
+jupyterlab>=4,<5
+ipykernel>=6,<8
+pip
+openai-whisper
+faster-whisper
+# faster-whisper 1.2.x passes metadata_errors to PyAV's older API.
+av>=11,<17
+jiwer
+pandas>=2.2,<3
+numpy>=1.26,<3
+imageio-ffmpeg
+transformers>=4.57,<5

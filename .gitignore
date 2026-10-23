@@ -1,3 +1,10 @@
 /appended_audio_gain_0.1
 /appended_audio_gain_0.3
 /backups
+/.venv/
+/.cache/
+/.local/
+/.ipynb_checkpoints/
+/appended_audio/
+__pycache__/
+/model_comparison.csv
