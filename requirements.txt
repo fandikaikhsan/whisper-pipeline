@@ -10,3 +10,4 @@ pandas>=2.2,<3
 numpy>=1.26,<3
 imageio-ffmpeg
 transformers>=4.57,<5
+python-dotenv>=1,<2

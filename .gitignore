@@ -8,3 +8,6 @@
 /appended_audio/
 __pycache__/
 /model_comparison.csv
+*.nemo
+/.env
+.env

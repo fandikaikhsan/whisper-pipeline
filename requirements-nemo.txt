@@ -1,0 +1,3 @@
+# Optional backend for NeMo ASR checkpoints (local files or published model IDs).
+-r requirements.txt
+nemo_toolkit[asr]>=3.0,<4
